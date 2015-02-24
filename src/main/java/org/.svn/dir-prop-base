@@ -1,0 +1,9 @@
+K 15
+tsvn:logminsize
+V 2
+20
+K 16
+tsvn:logtemplate
+V 15
+commit messages
+END
