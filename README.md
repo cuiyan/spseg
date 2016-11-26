@@ -1,2 +1,1 @@
-# spseg
-碎片分词-基于词库的全召回索引型分词器
+this is a Chinese analyser
